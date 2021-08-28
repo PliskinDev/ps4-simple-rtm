@@ -1,0 +1,11 @@
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\bin\Debug\SimpleRtm.exe.config
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\bin\Debug\SimpleRtm.exe
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\bin\Debug\SimpleRtm.pdb
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\bin\Debug\libdebug.dll
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.Form1.resources
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.Properties.Resources.resources
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.csproj.GenerateResource.cache
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.csproj.CoreCompileInputs.cache
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.csproj.CopyComplete
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.exe
+C:\Users\Specter\source\repos\SimpleRtm\SimpleRtm\obj\Debug\SimpleRtm.pdb
